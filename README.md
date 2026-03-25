@@ -110,3 +110,8 @@ Código de acesso: 1q-workspace-11072
 🧩 arcade-facilitator-diwali-badge
 Acesse o game através do [link!](https://www.skills.google/games/7061)
 Código de acesso: 1q-deplyment-9201
+
+## Playlist YouTube
+
+### Arcade game de fevereiro e outros labs iniciantes:
+`https://youtube.com/playlist?list=PLS8rM2CC2ZRo5leU0qjhSXoeWNxxv20r0&si=MPO7DjD4foRsLOxN`
